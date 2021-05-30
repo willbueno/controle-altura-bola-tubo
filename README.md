@@ -1,7 +1,8 @@
 # controle-altura-bola-tubo
 
 Projeto final da disciplina de Redes Industriais (UFSM).
-ntegrantes: Andrei Matiazi Schopf, Davi da Silva Calil e William Rocha.
+
+Integrantes: Andrei Matiazi Schopf, Davi da Silva Calil e William Rocha.
 
 O projeto trata-se de um trabalho semestral que tem por objetivo a implementação na
 prática dos conhecimentos obtidos durante o semestre na disciplina de Redes Industriais. Para
